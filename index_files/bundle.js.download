@@ -420,7 +420,7 @@ function Header() {
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
     class: "jumbotron",
     children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("img", {
-      src: "https://media-exp1.licdn.com/dms/image/C5603AQE2z7e98EK3Ow/profile-displayphoto-shrink_800_800/0/1642049198300?e=1659571200&v=beta&t=tsiWwKyZhi3CE6rZXkecZdV0k4fJo_kdZoDTLqg218w",
+      src: "https://media-exp1.licdn.com/dms/image/C4D03AQG2S8Vr-Zu9tg/profile-displayphoto-shrink_400_400/0/1654616584078?e=1660176000&v=beta&t=Pa1-UkyZhmkGv6nXL4bjjTrR4_qNNharIj7GgFILwfM",
       width: "150",
       "border-radius": "10px"
     }, void 0, false, {
@@ -429,7 +429,7 @@ function Header() {
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("h1", {
       class: "display-4",
-      children: "Rajkumar G"
+      children: "ASHWIN V"
     }, void 0, false, {
       fileName: _jsxFileName,
       lineNumber: 5,
@@ -449,7 +449,7 @@ function Header() {
       columnNumber: 3
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
       href: "url",
-      children: "https://www.linkedin.com/in/rajkumar-gunasekaran-5244261b7/"
+      children: "https://www.linkedin.com/in/ashwin-ashwin-4087b4225/"
     }, void 0, false, {
       fileName: _jsxFileName,
       lineNumber: 8,
@@ -661,7 +661,7 @@ function Navbar() {
     children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
       class: "navbar-brand",
       href: "#",
-      children: "Rajkumar G"
+      children: "ASHWIN V"
     }, void 0, false, {
       fileName: _jsxFileName,
       lineNumber: 4,
@@ -46195,7 +46195,7 @@ if (true) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("2b1389aa4ed1075d4d48")
+/******/ 		__webpack_require__.h = () => ("9f386f8061c602892716")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
